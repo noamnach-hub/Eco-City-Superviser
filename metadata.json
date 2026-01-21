@@ -1,0 +1,5 @@
+{
+  "name": "Ecocity Signer",
+  "description": "A dynamic signature portal for Ecocity employees to approve accounting lines via Airtable.",
+  "requestFramePermissions": []
+}
